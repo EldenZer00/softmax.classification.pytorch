@@ -6,4 +6,4 @@ Softmax function or normalized exponential function based multi-class classifica
 <h2> Loss </h2>
 I used LogLoss or CrossEntropyLoss algorithm for finding loss of the model. Also, I used Gradient Descent Algorithm
 
-**I was build Softmax Layer From Scratch With The Help of Numpy, Matplotlib and PyTorch**
+**I built Softmax Layer From Scratch With The Help of Numpy, Matplotlib and PyTorch**
